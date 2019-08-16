@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 
 async function start() {
     let args = process.argv.slice(2);
-    let address = "ban_3p7pahstkbazsqypb3guphjoz11upectr18d6uzb87a7khp3xindkucrkfws"
+    let address = "ban_3e7ti1h4uxx5pxricrem4thpqarwafhweirm7h1k9c8ed51ze5phofij3q4k"
     let threads = 6
     if(args.length >= 2) {
         address = args[0]
