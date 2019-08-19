@@ -30,12 +30,15 @@ async function start() {
 
         let currThreadEle = await page.$("#web_threads")
         let t = parseInt(await page.evaluate(element => element.textContent, currThreadEle))
-
+let btn2 = await page.$("img[class='img-responsive']")
+					btn2.click()
+					await page.waitFor(10000)
         if(!isNaN(t)) {
             console.log(t, threads)
             if (t > threads) {
                 for(let i = 0; i < t - threads; i++) {
-                    let btn = await page.$("input[onclick='web_decrease_threads()']")
+                    let btn = await page.$("img[class='img-responsive']")
+					btn.click()
                     
                     await page.waitFor(1000)
                 }
