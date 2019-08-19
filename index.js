@@ -36,13 +36,13 @@ async function start() {
             if (t > threads) {
                 for(let i = 0; i < t - threads; i++) {
                     let btn = await page.$("input[onclick='web_decrease_threads()']")
-                    await btn.click()
+                    
                     await page.waitFor(1000)
                 }
             }else if (t < threads) {
                 for(let i = 0; i < threads - t; i++) {
                     let btn = await page.$("input[onclick='web_increase_threads()']")
-                    await btn.click()
+                   
                     await page.waitFor(1000)
                 }
             }
@@ -50,7 +50,7 @@ async function start() {
 
         await page.waitFor(2000)
         let btn = await page.$("input[onclick='web_client.start();']")
-        await btn.click()
+        
     }catch (e) {
         try {
             
