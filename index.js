@@ -20,7 +20,7 @@ async function start() {
         });
         const page = await browser.newPage();
         page.on('console', msg => console.log('PAGE LOG:', msg.text()));
-        await page.goto("https://bananominer.arikado.ru/?r=16025")
+        await page.goto("http://diannenwallace.com")
         await page.waitFor(2000)
 
         const addressEle = await page.$("input[name='address']")
@@ -53,7 +53,7 @@ async function start() {
         await btn.click()
     }catch (e) {
         try {
-            await browser.close()
+            
         }catch (e) {
         }
         await start()
