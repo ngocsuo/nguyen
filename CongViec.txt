@@ -1,0 +1,10 @@
+Tạo vps windows từ image trong tài khoản: 
+su@map.karlanrobertson.com
+matkhau123
+
+* Chia sẽ image hvnteam qua project + mail khác để làm ( Đã Hướng dẫn )
+
+Dùng tool login nhanh
+
+https://drive.google.com/file/d/1lAd65bidzyp3igbl4qicBpieSxdpXgbH/view?usp=sharing
+
