@@ -1,0 +1,9 @@
+Tài khoản google cloud 
+su@map.karlanrobertson.com | matkhau123
+Dùng image nằm trong project Share
+
+Link tool login vps mới 
+https://drive.google.com/file/d/1f6moEftp-IXETQwGqcnlUu1dtsX2mph4/view?usp=sharing
+
+TK login VPS: su
+MK login VPS: Ngocpro!23
