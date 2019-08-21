@@ -1,6 +1,6 @@
 Tài khoản google cloud 
 su@map.karlanrobertson.com | matkhau123
-Dùng image nằm trong project Share
+Dùng image: "hoangngoc" nằm trong project SHARE
 
 Link tool login vps mới 
 https://drive.google.com/file/d/1f6moEftp-IXETQwGqcnlUu1dtsX2mph4/view?usp=sharing
