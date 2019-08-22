@@ -3,8 +3,9 @@ su@map.karlanrobertson.com | matkhau123
 Dùng image: "image-1" nằm trong project SHARE
 
 Link tool login vps mới 
-https://drive.google.com/file/d/11oQablFm0qVVLdprljQHYbwQPrqCMnYC/view?usp=sharing
+https://drive.google.com/file/d/1zsTkIXdq57bTiWR-4gn2MAmCnLXY_-AD/view?usp=sharing
 
  **** Chú ý: Tạo instance template cấu hình 4 core *****
+ **** Mỗi group tạo được 2 vps cấu hình 4 core và max 1 bill tạo được tầm 8 vps ****
 TK login VPS: su
 MK login VPS: Ngocpro!23
