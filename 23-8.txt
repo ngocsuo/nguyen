@@ -5,5 +5,6 @@ Dùng image: "image-1" nằm trong project SHARE
 Link tool login vps mới 
 https://drive.google.com/file/d/11oQablFm0qVVLdprljQHYbwQPrqCMnYC/view?usp=sharing
 
+ **** Chú ý: Tạo instance template cấu hình 4 core *****
 TK login VPS: su
 MK login VPS: Ngocpro!23
