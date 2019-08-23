@@ -1,3 +1,9 @@
+NẾU SẮNG MAI LOGIN ĐƯỢC VPS NÀY THÌ LÀM THEO NHỮNG GÌ GHI Ở DƯỚI
+35.188.43.254
+su
+Ngocpro123
+**************************
+
 Tài khoản google cloud 
 su@map.karlanrobertson.com | matkhau123
 Dùng image: "thuyduong" nằm trong project SHARE
@@ -5,8 +11,7 @@ Dùng image: "thuyduong" nằm trong project SHARE
 Link tool login vps mới 
 https://drive.google.com/file/d/1oGVJQX6W45B1xQ67VEK7sS3siFWJBnVR/view?usp=sharing
 
- **** Chú ý: Tạo instance template cấu hình 2 core *****
- **** Mỗi group tạo được 4 vps cấu hình 2 core và max 1 bill tạo được tầm 16 vps ****
+Tạo vps 2 core 
 TK login VPS: su
 MK login VPS: Ngocpro!23
 
